@@ -1,2 +1,2 @@
 # Penguin-Identifier
-Use ML techniques to accurately determine penguin species
+Used various ML techniques to accurately determine penguin species
